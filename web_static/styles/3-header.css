@@ -2,7 +2,6 @@ header {
   background-color: #ffffff;
   height: 70px;
   width: 100%;
-  margin-bottom: calc(100vh - 132px);
   border-bottom: 1px solid #cccccc;
   background-image: url(../images/logo.png);
   background-repeat: no-repeat;
